@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Manasa Devi AT
+* **Register Number**: 212224110036
+* **Date of Submission**: 27.02.2026
 
 ---
 
@@ -94,37 +94,23 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ---
 
-## Workflow (Student Explanation)
-
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
----
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/e38f5ade-5bed-44cf-ab3e-834aeb89b421" />
 
----
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/b76b07a6-6945-4525-8f5d-fd0a55bd3078" />
 
----
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/cf60cf02-e829-46c9-83be-ab640dc65197" />
 
----
 
 ## Result 
 
