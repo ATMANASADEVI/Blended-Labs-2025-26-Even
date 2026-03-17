@@ -1,5 +1,9 @@
 # Lab 6 – Scale and Load Balance Your Architecture
 
+## Name  - MANASA DEVI AT
+## Reg No - 212224110036
+## Date - 17/03/2026
+
 ## Title
 
 Scale and Load Balance Your Architecture
@@ -64,14 +68,13 @@ Students test the setup by generating traffic and observing automatic scaling an
 
 ---
 
-## Workflow (To be filled by Student)
-
-Describe step-by-step how you performed this experiment in your own words.
-
----
 
 ## Output Screenshots 
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/1e92624c-6923-415d-97aa-7931d4b2f7bc" />
 
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/bad23d3b-34c4-4f89-8896-67360dbb03c6" />
+
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/b27ad671-5f34-4b22-9744-34de92561c96" />
 
 ---
 
